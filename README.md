@@ -2,7 +2,8 @@
 
 #This is a Sample Project Title
 --
-these are the featutes pf Project
+these are the featutes of Project
+
 -feature 1
 -feature-2
 -feature-3
